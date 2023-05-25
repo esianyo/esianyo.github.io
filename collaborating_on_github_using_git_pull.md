@@ -73,9 +73,10 @@ To collaborate on a project on GitHub using the git pull method without branchin
 Collaborating on a project on GitHub using the git pull method without branching allows developers to work together efficiently. By following the steps outlined in this article, you and your partner can easily collaborate on projects, share code changes, and keep your work synchronized. Enjoy collaborating on your projects using GitHub!
 
 **My Social Handles**
-**[YouTube](https://www.youtube.com/@esianyo/featured)**
-**[GitHub](https://github.com/esianyo)**
-**[LinkedIn](https://linkedin.com/in/esianyo)**
-**[Twitter](https://twitter.com/esianyo_)**
-**[Instagram](https://instagram.com/esianyo__)**
-**[Facebook](https://facebook.com/esianyod)**
+
+* **[YouTube](https://www.youtube.com/@esianyo/featured)**
+* **[GitHub](https://github.com/esianyo)**
+* **[LinkedIn](https://linkedin.com/in/esianyo)**
+* **[Twitter](https://twitter.com/esianyo_)**
+* **[Instagram](https://instagram.com/esianyo__)**
+* **[Facebook](https://facebook.com/esianyod)**
