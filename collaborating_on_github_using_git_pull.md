@@ -1,5 +1,5 @@
 
-**How to Collaborate on a Project on GitHub Using the Git Pull Method**
+**How to Collaborate on a Project on GitHub Using Git Pull Method**
 
 *By Esianyo Dzisenu*
 
